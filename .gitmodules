@@ -1,3 +1,6 @@
 [submodule "bowling"]
 	path = bowling
 	url = https://github.com/jbtwist/bowling
+[submodule "xmas_lights"]
+	path = xmas_lights
+	url = https://github.com/jbtwist/xmas_lights
