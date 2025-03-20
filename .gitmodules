@@ -1,0 +1,3 @@
+[submodule "bowling"]
+	path = bowling
+	url = https://github.com/jbtwist/bowling
